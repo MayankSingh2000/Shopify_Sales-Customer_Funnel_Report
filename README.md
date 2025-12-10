@@ -124,4 +124,14 @@ This dataset is used for **educational and portfolio demonstration purposes only
 ---
 
 ## 🖼 Dashboard Preview
+![image alt](https://github.com/MayankSingh2000/Shopify_Sales-Customer_Funnel_Report/blob/main/docs/SHOPIFY%20REPORT_page-0001.jpg?raw=true)
+
+---
+
+## 👤 Author
+**Mayank Singh** 
+-- Aspiring Data Analyst
+-- Skilled in SQL, Power BI and Excel
+-- Actively seeking entry-level Data Analyst opportunities
+
 
